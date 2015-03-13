@@ -1,7 +1,7 @@
-# Boss-1
+# Fight-1
 Genre - Chiptune
 
-[Youtube Link](https://www.youtube.com/watch?v=7HtQq-vEEdY&feature=youtu.be)
+[Youtube Link](https://www.youtube.com/watch?v=uNhQfhFSR6k&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=5)
 
 Current Song Version: 1.0
 
